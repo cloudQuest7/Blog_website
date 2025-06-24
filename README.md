@@ -17,8 +17,6 @@ A simpple-featured blog platform built with Node.js, Express, and PostgreSQL..
 - **Database**: PostgreSQL
 - **ORM**: Sequelize
 - **Template Engine**: EJS
-- **Authentication**: Passport.js, bcrypt
-- **Frontend**: HTML, CSS, JavaScript
 
 ## 📦 Installation
 
