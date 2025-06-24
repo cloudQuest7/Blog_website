@@ -1,6 +1,6 @@
 # Blog Website
 
-A simpple-featured blog platform built with Node.js, Express, and PostgreSQL.
+A simpple-featured blog platform built with Node.js, Express, and PostgreSQL..
 
 ## 🚀 Features
 
